@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorePlayground", "CorePlayground\CorePlayground.csproj", "{8E9041E1-1CF2-4102-A2E5-1C1550D4A21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9041E1-1CF2-4102-A2E5-1C1550D4A21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9041E1-1CF2-4102-A2E5-1C1550D4A21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9041E1-1CF2-4102-A2E5-1C1550D4A21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9041E1-1CF2-4102-A2E5-1C1550D4A21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
