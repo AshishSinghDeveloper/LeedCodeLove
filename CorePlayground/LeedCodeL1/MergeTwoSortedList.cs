@@ -16,7 +16,7 @@ namespace CorePlayground.LeedCodeL1
         public static ListNode MergeTwoLists(ListNode list1, ListNode list2)
         {
             var dummy = new ListNode();
-            var tail = dummy;
+            var tail = dummy; //here dummy and tail both point to new ListNode() that declare in line number 19;
             while (list1 != null && list2 != null)
             {
                 if (list1.val < list2.val)
