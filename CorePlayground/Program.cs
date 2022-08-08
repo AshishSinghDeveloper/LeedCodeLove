@@ -1,5 +1,6 @@
 ﻿using System;
 using CorePlayground.LeedCodeL1;
+using LeedCodeLove.LeedCodeL1;
 
 namespace CorePlayground
 {
@@ -33,15 +34,21 @@ namespace CorePlayground
             //FindPivotIndex.GrabPivotIndex(new int[] { 1,7,3,6,5,6 });
             //IsomorphicStrings.IsIsomorphic("badc", "baba");
             //Subsequence.IsSubsequence("b", "abc");
-            ListNode list1 = new ListNode(1, null);
-            list1.next = new ListNode(2, null);
-            list1.next.next = new ListNode(4, null);
+            //ListNode list1 = new ListNode(1, null);
+            //list1.next = new ListNode(2, null);
+            //list1.next.next = new ListNode(4, null);
 
-            ListNode list2 = new ListNode(1, null);
-            list2.next = new ListNode( 3, null);
-            list2.next.next = new ListNode(4, null);
+            //ListNode list2 = new ListNode(1, null);
+            //list2.next = new ListNode( 2, null);
+            //list2.next.next = new ListNode(3, null);
+            //list2.next.next.next = new ListNode(4, null);
+            //list2.next.next.next.next = new ListNode(5, null);
+            //list2.next.next.next.next.next = new ListNode(6, null);
 
-            MergeTwoSortedList.MergeTwoLists(list1, list2);
+            ////MergeTwoSortedList.MergeTwoLists(list1, list2);
+            //MiddleoftheLinkedList.MiddleNodeAttempt2(list2);
+
+            LongestPalindrome.Palindrome("abccccdd");
         }
     }
 }
