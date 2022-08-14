@@ -49,12 +49,14 @@ namespace CorePlayground
             //MiddleoftheLinkedList.MiddleNodeAttempt2(list2);
 
             //LongestPalindrome.Palindrome("abccccdd");
-            int[][] image =
-                {
-                    new int[] {0, 0, 0 },
-                    new int[] {0, 0, 0,}
-                };
-            FloodFill.FloodFilling(image, 1, 0, 2);
+            //int[][] image =
+            //    {
+            //        new int[] {0, 0, 0 },
+            //        new int[] {0, 0, 0,}
+            //    };
+            //FloodFill.FloodFilling(image, 1, 0, 2);
+
+            ClimbingStairs.ClimbStraisAttempt2(5);
         }
     }
 }
