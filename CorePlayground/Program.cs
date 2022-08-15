@@ -57,7 +57,8 @@ namespace CorePlayground
             //FloodFill.FloodFilling(image, 1, 0, 2);
 
             //ClimbingStairs.ClimbStraisAttempt2(5);
-            FindAllAnagramsInAString.FindAnagramsWorking("cbaebabacd", "abc");
+            //FindAllAnagramsInAString.FindAnagramsWorking("cbaebabacd", "abc");
+            LongestRepeatingCharacterReplacement.CharacterReplacement("AABABBA", 1);
         }
     }
 }
