@@ -58,7 +58,9 @@ namespace CorePlayground
 
             //ClimbingStairs.ClimbStraisAttempt2(5);
             //FindAllAnagramsInAString.FindAnagramsWorking("cbaebabacd", "abc");
-            LongestRepeatingCharacterReplacement.CharacterReplacement("AABABBA", 1);
+            //LongestRepeatingCharacterReplacement.CharacterReplacement("AABABBA", 1);
+            //TwoSum.TwoSumOptimized(new int[] { 11, 5, 2, 4, 7, 1 }, 9);
+            BullsAndCows.GetHint("1122","1222");
         }
     }
 }
